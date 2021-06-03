@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @YuvrajRupnar
-- 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Beiginner level Python Programming
 
 <!---
 YuvrajRupnar/YuvrajRupnar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
